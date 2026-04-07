@@ -141,7 +141,7 @@ streamlit run app.py
 
 **Results**
 
-SVM performed with high accuracy (usually 95%+)
+SVM performed with high accuracy
 
 Able to clearly differentiate malignant vs benign
 
