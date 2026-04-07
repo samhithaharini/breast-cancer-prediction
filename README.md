@@ -72,7 +72,7 @@ Train-test split
 4️⃣ Model Training
 
 Algorithm used:
-✔ Support Vector Classifier (SVC) with:
+ Support Vector Classifier (SVC) with:
 
 RBF Kernel (best for non-linear separation)
 
