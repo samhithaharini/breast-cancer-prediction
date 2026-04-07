@@ -2,7 +2,7 @@
 
 A complete end-to-end Machine Learning project that uses the Support Vector Machine (SVM) algorithm to classify whether a patient is likely to have breast cancer based on medical features.
 
-This project covers data preprocessing, EDA, model training, hyperparameter tuning, evaluation, model saving, and a Streamlit/Flask frontend (if you add it later).
+This project covers data preprocessing, EDA, model training, hyperparameter tuning, evaluation, model saving, and a Streamlit app.
 
 ---
 
@@ -24,7 +24,7 @@ Python
 
 Pandas, NumPy
 
-Matplotlib / Seaborn (optional for EDA)
+Matplotlib / Seaborn
 
 Scikit-learn
 
@@ -62,7 +62,6 @@ Statistical summary
 
 Feature correlation
 
-Distribution plots (optional)
 
 3️⃣ Preprocessing
 
@@ -95,13 +94,12 @@ Confusion matrix
 
 Save trained model as svm_model.pkl
 
-7️⃣ Deployment (Optional)
+7️⃣ Deployment
 
 Can be integrated with:
 
 Streamlit
 
-Flask
 to create a real-time prediction app.
 
 ---
@@ -132,7 +130,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 
-3. Run Streamlit (if added)
+3. Run Streamlit
 
 streamlit run app.py
 
